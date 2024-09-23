@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\006_PersonInfoV3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15FC48D-C4EB-483F-A79B-2D23D08D9693}|006_PersonInfoV3.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\006_PersonInfoV3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15FC48D-C4EB-483F-A79B-2D23D08D9693}|006_PersonInfoV3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\006_PersonInfoV3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\006_PersonInfoV3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAowK8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T01:02:36.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

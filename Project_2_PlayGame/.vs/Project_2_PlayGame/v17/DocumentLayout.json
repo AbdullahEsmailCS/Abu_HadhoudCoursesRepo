@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Project_2_PlayGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6481E6-CBDF-42D3-BF80-C667FD020C50}|Project_2_PlayGame.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Project_2_PlayGame\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F6481E6-CBDF-42D3-BF80-C667FD020C50}|Project_2_PlayGame.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Project_2_PlayGame\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Project_2_PlayGame\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T00:13:14.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\017_ArmstrongNumber\main.cpp(60,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  017_ArmstrongNumber.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\017_ArmstrongNumber\x64\Debug\017_ArmstrongNumber.exe

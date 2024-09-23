@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\015_PalindromeString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D67C3A-722E-48F9-B0ED-05B9FFA9C5D0}|015_PalindromeString.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\015_PalindromeString\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47D67C3A-722E-48F9-B0ED-05B9FFA9C5D0}|015_PalindromeString.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\015_PalindromeString\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\015_PalindromeString\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T20:42:44.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

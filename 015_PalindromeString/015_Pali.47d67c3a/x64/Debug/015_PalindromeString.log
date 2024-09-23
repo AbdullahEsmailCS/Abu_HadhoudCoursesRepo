@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\015_PalindromeString\main.cpp(20,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  015_PalindromeString.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\015_PalindromeString\x64\Debug\015_PalindromeString.exe

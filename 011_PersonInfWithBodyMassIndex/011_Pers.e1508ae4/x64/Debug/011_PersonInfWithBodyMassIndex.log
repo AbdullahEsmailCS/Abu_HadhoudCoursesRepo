@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\main.cpp(109,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\main.cpp(109,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\main.cpp(110,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\main.cpp(110,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\main.cpp(407,9): warning C4244: 'return': conversion from 'double' to 'char', possible loss of data
+  011_PersonInfWithBodyMassIndex.vcxproj -> D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\011_PersonInfWithBodyMassIndex\x64\Debug\011_PersonInfWithBodyMassIndex.exe
